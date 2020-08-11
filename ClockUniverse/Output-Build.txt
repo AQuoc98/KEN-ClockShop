@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: ClockUniverse, Configuration: Debug Any CPU ------
+1>C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(2110,5): warning MSB3277: Found conflicts between different versions of "System.Web.Mvc" that could not be resolved.  These reference conflicts are listed in the build log when log verbosity is set to detailed.
+1>  ClockUniverse -> D:\Education\final_1\FinalProj\ClockUniverse\ClockUniverse\bin\ClockUniverse.dll
+========== Build: 1 succeeded, 0 failed, 1 up-to-date, 0 skipped ==========

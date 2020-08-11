@@ -1,0 +1,36 @@
+﻿@model IEnumerable<ClockUniverse.AspNetUser>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutManage.cshtml";
+}
+
+<h2>Danh sách các tài khoản</h2>
+
+<p>
+    @Html.ActionLink("Thêm mới tài khoản", "Register")
+</p>
+<div class="form-group">
+    <table class="display table table-bordered" id="mytable">
+        <thead>
+            <tr>
+
+                <th>
+                    Tài khoản
+                </th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.UserName)
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+</div>

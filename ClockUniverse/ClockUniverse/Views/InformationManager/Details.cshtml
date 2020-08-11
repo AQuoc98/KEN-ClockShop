@@ -1,0 +1,121 @@
+﻿@model ClockUniverse.Contact
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_LayoutManage.cshtml";
+}
+
+<h2>Chi tiết</h2>
+
+<div>
+
+    <hr />
+    <div class="form-group">
+        <table class="table table-bordered">
+            <tr>
+                <th>
+                    Họ Tên Khách Hàng
+                </th>
+
+                <td>
+                    @Html.DisplayFor(model => model.Customer_Name)
+                </td>
+            </tr>
+            
+            <tr>
+                <th>
+                    Số Điện Thoại
+                </th>
+
+                <td>
+                    @Html.DisplayFor(model => model.Phone)
+                </td>
+            </tr>
+            
+            <tr>
+                <th>
+                    Email
+                </th>
+
+                <td>
+                    @Html.DisplayFor(model => model.Email)
+                </td>
+            </tr>
+            
+            <tr>
+                <th>
+                    Địa Chỉ
+                </th>
+
+                <td>
+                    @Html.DisplayFor(model => model.Address)
+                </td>
+            </tr>
+            
+
+            <tr>
+                </td>
+                <th>
+                    Ngày Cập Nhật
+                </th>
+                <td>
+                    @Html.Display("Date")
+                </td>
+            </tr>
+           
+            <tr>
+                <th>
+                    Chủ đề
+                </th>
+                <td>
+                    @Html.Display("Tito")
+                </td>
+            </tr>
+           
+            <tr>
+                <th>
+                    Nội dung
+                </th>
+                <td>
+                    <textarea disabled> @Html.Display("FBR")</textarea> 
+                </td>
+            </tr>
+            <tr>
+                <th>
+                    Nội dung trả lời
+                </th>
+                <td>
+                    <textarea disabled> @Html.Display("FR")</textarea>
+                </td>
+            </tr>
+           
+            <tr>
+                <th>
+                    Tình Trạng Xử Lý
+                </th>
+
+
+                <td>
+                    @switch (Model.Status)
+                    {
+                        case 1:
+                            <div>Chưa xử lý</div>
+                            break;
+                        case 2:
+                            <div>Đã xử lý</div>
+                            break;
+
+
+                    }
+            </tr>
+            
+        </table>
+
+
+    </div>
+
+</div>
+<p>
+    @Html.ActionLink("Trả lời", "Edit", new { id = Model.Contact_ID }) |
+    @Html.ActionLink("Quay l", "Index")
+</p>

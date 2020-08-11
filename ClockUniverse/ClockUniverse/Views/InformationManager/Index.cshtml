@@ -1,0 +1,94 @@
+﻿@model IEnumerable<ClockUniverse.ContactsDetail>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutManage.cshtml";
+}
+
+<h2>QUẢN LÝ LIÊN HỆ</h2>
+<p>
+
+</p>
+
+<div class="form-group">
+    <table class="table table-bordered display" id="mytable">
+        <thead>
+            <tr>
+                <th>
+                    Ngày cập nhật
+                </th>
+                <th>
+                    ID
+                </th>
+                <th>
+                    Họ tên Khách Hàng
+                </th>
+                <th>
+                    Số Điện Thoại
+                </th>
+                <th>
+                    Email
+                </th>
+                <th>
+                    Địa chỉ
+                </th>
+                <th>
+                    Tình trạng Xử Lý
+                </th>
+                <th>
+                    Nhân viên
+                </th>
+                <th>
+
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @item.Date
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Contact_ID)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Contact.Customer_Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Contact.Phone)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Contact.Email)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Contact.Address)
+                    </td>
+                        
+                    <td>
+                        @switch (@item.Contact.Status)
+                        {
+                            case 1:
+                                <div>Chưa xử lý</div>
+                                break;
+                            case 2:
+                                <div>Đã xử lý</div>
+                                break;
+
+
+                        }
+                    </td>
+                    <td>
+                        @item.Employee_ID
+                    </td>
+                    <td>
+                        @Html.ActionLink("Chi tiết", "Details", new { id = item.Contact_ID })
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+</div>

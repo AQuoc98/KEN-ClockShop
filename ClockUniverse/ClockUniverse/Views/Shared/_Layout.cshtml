@@ -1,0 +1,201 @@
+﻿
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wacth Universe </title>
+    <link href='http://fonts.googleapis.com/css?family=Dosis:300,400' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/Content/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/Content/vendors/colorbox/example3/colorbox.css">
+    <link rel="stylesheet" href="~/Content/rs-plugin/css/settings.css">
+    <link rel="stylesheet" href="~/Content/rs-plugin/css/responsive.css">
+    <link rel="stylesheet" title="style" href="~/Content/css/style.css">
+    <link rel="stylesheet" href="~/Content/css/animate.css">
+    <link rel="stylesheet" title="style" href="~/Content/css/huong-style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&amp;subset=vietnamese" rel="stylesheet">
+    <style>
+        #searchform #s {
+            padding-right: 25px;
+            width: 101%;
+        }
+        span.slgh {
+            background-color: #fdd835;
+            color: #4a4a4a;
+            font-size: 18px;
+            width: 15px;
+            font-weight: 500;
+            height: 15px;
+            border-radius: 3px;
+            padding: 0px 7px;
+            margin-left: 5px;
+        }
+        a.sll {
+            margin-top: -2px;
+            display: block;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="header">
+        <div class="header-top">
+            <div class="container">
+                <div class="pull-left auto-width-left">
+                    <ul class="top-menu menu-beta l-inline">
+                        <li><a href=""><i class="fa fa-home"></i> Đại Học Văn Lang Cơ Sở 3</a></li>
+                        <li><a href=""><i class="fa fa-phone"></i> 028. 3836 7933</a></li>
+                    </ul>
+                </div>
+                <div class="clearfix"></div>
+            </div> <!-- .container -->
+        </div> <!-- .header-top -->
+        <div class="header-body">
+            <div class="container beta-relative">
+                <div class="pull-left">
+                    <a href="@Url.Action("Index","Home")" id="logo"><img src="~/Content/images/logo.jpg" width="200px" alt=""></a>
+                </div>
+                <div class="pull-right beta-components space-left ov">
+                    <div class="space10">&nbsp;</div>
+                    <div class="beta-comp">
+                        <form role="search" method="get" id="searchform" action="@Url.Action("Search", "Home")">
+                            <input type="text" value="" name="text" id="s" placeholder="Nhập từ khóa..." />
+                            <button class="fa fa-search" type="submit" id="searchsubmit"></button>
+                        </form>
+                    </div>
+
+                    <div class="beta-comp">
+                        <div class="cart">
+
+                            <div class=""> <a href="@Url.Action("ShoppingCart","ShoppingCart")" class="sll"><i class="fa fa-shopping-cart"></i>Giỏ hàng <span class="slgh"> @Html.Action("CartPartial", "ShoppingCart") </span></a> </div>
+
+                        </div> <!-- .cart -->
+                    </div>
+
+                </div>
+                <div class="clearfix"></div>
+            </div> <!-- .container -->
+        </div> <!-- .header-body -->
+        <div class="header-bottom" style="background-color: #0277b8;">
+            <div class="container">
+                <a class="visible-xs beta-menu-toggle pull-right" href="#"><span class='beta-menu-toggle-text'>Menu</span> <i class="fa fa-bars"></i></a>
+                <div class="visible-xs clearfix"></div>
+                <nav class="main-menu">
+                    <ul class="l-inline ov">
+                        <li><a href="@Url.Action("Index","Home")">Trang chủ</a></li>
+                        <li>
+                            <a href="#">Sản phẩm</a>
+                            <ul class="sub-menu">
+                                <li><a href="@Url.Action("ListItem", "products")?type=1">Nam</a></li>
+                                <li><a href="@Url.Action("ListItem", "products")?type=2">Nữ</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="@Url.Action("About","Home")">Giới thiệu</a></li>
+                        <li><a href="@Url.Action("Contact","Home")">Liên hệ</a></li>
+                    </ul>
+                    <div class="clearfix"></div>
+                </nav>
+            </div> <!-- .container -->
+        </div> <!-- .header-bottom -->
+    </div> <!-- #header -->
+    <!-- .container -->
+    @RenderBody()
+    @RenderSection("scripts", false)
+
+    <div id="footer" class="color-div">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-sm-4">
+                    <div class="widget">
+                        <h4 class="widget-title">Hướng dẫn</h4>
+                        <div>
+                            <ul>
+                                <li><a href="blog_fullwidth_2col.html"><i class="fa fa-chevron-right"></i> Thông tin liên hệ</a></li>
+                                <li><a href="blog_fullwidth_2col.html"><i class="fa fa-chevron-right"></i> Hướng Dẫn Mua Hàng</a></li>
+                                <li><a href="blog_fullwidth_2col.html"><i class="fa fa-chevron-right"></i> Hướng Dẫn Sử Dụng Đồng Hồ (Đầy Đủ)</a></li>
+                                <li><a href="blog_fullwidth_2col.html"><i class="fa fa-chevron-right"></i> Hỏi Đáp - Góp Ý</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="col-sm-10">
+                        <div class="widget">
+                            <h4 class="widget-title">Contact Us</h4>
+                            <div>
+                                <div class="contact-info">
+                                    <i class="fa fa-map-marker"></i>
+                                    <p>
+                                        177/25 1 Đường số 6, Phường 5, Gò Vấp, Hồ Chí Minh, Viet Nam
+                                        <br />Phone: 028. 3836 7933
+                                    </p>
+                                    <p></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div cl0ass="col-sm-3">
+                    <div class="widget">
+                        <h4 class="widget-title">FOLLOW US</h4>
+                        <div>
+                            <ul>
+                                <li><a href="#"><i class="fab fa-facebook-f"></i>FACEBOOK</a></li>
+                                <li><a href="#"><i class="fab fa-instagram"></i>INSTAGRAM</a></li>
+                                <li><a href="#"><i class="fab fa-youtube"></i>YOUTUBE</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div> <!-- .row -->
+        </div> <!-- .container -->
+    </div> <!-- #footer -->
+    <div class="copyright">
+        <div class="container">
+            <p class="pull-left">Privacy policy. (&copy;) 2014</p>
+            <p class="pull-right pay-options">
+
+
+
+            </p>
+            <div class="clearfix"></div>
+        </div> <!-- .container -->
+    </div> <!-- .copyright -->
+    <!-- include js files -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="~/Scripts/js/jquery.js"></script>
+    <script src="~/Scripts/vendors/jqueryui/jquery-ui-1.10.4.custom.min.js"></script>
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
+    <script src="~/Scripts/vendors/bxslider/jquery.bxslider.min.js"></script>
+    <script src="~/Scripts/vendors/colorbox/jquery.colorbox-min.js"></script>
+    <script src="~/Scripts/vendors/animo/Animo.js"></script>
+    <script src="~/Scripts/vendors/dug/dug.js"></script>
+    <script src="~/Scripts/js/scripts.min.js"></script>
+    <script src="~/Scripts/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+    <script src="~/Scripts/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+    <script src="~/Scripts/js/waypoints.min.js"></script>
+    <script src="~/Scripts/js/wow.min.js"></script>
+    <!--customjs-->
+    <script src="~/Scripts/js/custom2.js"></script>
+    <script>
+        $(document).ready(function ($) {
+            $(window).scroll(function () {
+                if ($(this).scrollTop() > 150) {
+                    $(".header-bottom").addClass('fixNav')
+                } else {
+                    $(".header-bottom").removeClass('fixNav')
+                }
+            }
+            )
+        })
+    </script>
+   
+</body>
+</html>

@@ -1,0 +1,105 @@
+﻿@model ClockUniverse.ProductTable
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_LayoutManage.cshtml";
+}
+
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    th, td {
+        padding: 20px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+    }
+
+    th {
+        font-size: 2.0em;
+    }
+
+    tr:hover {
+        background-color: #cacaca;
+    }
+
+    h2 {
+        text-align: center;
+        margin-top: 4px;
+    }
+
+    img {
+        width: 300px;
+        height: 300px;
+    }
+
+    textarea {
+        width: 1600px;
+        height: 100px;
+        font-size:18px;
+    }
+    #Large{
+        font-size:18px;
+    }
+</style>
+
+<h2>XÁC NHẬN XÓA SẢN PHẨM</h2>
+
+<table class="table table-bordered success">
+    <tr>
+        <th id="Large">Tên Đồng Hồ</th>
+        <td id="Large">@Html.DisplayFor(model => model.Watch_Name)</td>
+    </tr>
+    <tr>
+        <th id="Large">Mô Tả Đồng Hồ</th>
+        <td>
+            <textarea disabled>@Html.DisplayFor(model =>model.Watch_Description)</textarea>
+        </td>
+    </tr>
+    <tr>
+        <th id="Large">Thông Số Đồng Hồ</th>
+        <td>
+            <textarea disabled>@Html.DisplayFor(model =>model.Watch_Static)</textarea>
+        </td>
+    </tr>
+    <tr>
+        <th id="Large">Giá Niêm Yết</th>
+        <td id="Large">@Model.Original_Price.ToString("N0") VNĐ</td>
+    </tr>
+    <tr>
+        <th id="Large">Giá Khuyến Mãi</th>
+        <td id="Large">@Model.Selling_Price.ToString("N0") VNĐ</td>
+    </tr>
+    <tr>
+        <th id="Large">Số Lượng</th>
+        <td id="Large">@Html.DisplayFor(model => model.InStock)</td>
+    </tr>
+    <tr>
+        <th id="Large">Loại Đồng Hồ</th>
+        <td id="Large">@Html.DisplayFor(model => model.ProductType.ProductType_Name)</td>
+    </tr>
+    <tr>
+        <th id="Large">Hình Ảnh Đồng Hồ</th>
+        <td>
+            <img src="@Url.Action("Image", new { id = Model.Watch_ID }) " />
+            <img src="@Url.Action("Image1", new { id = Model.Watch_ID }) " />
+            <img src="@Url.Action("Image2", new { id = Model.Watch_ID }) " />
+        </td>
+    </tr>
+
+</table>
+
+<p style="color:red; text-align:center; font-size:20px">@Html.ValidationMessageFor(m => m.Watch_ID)</p>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <p>
+        <input type="submit" value="Xóa Sản Phẩm" class="btn btn-default" />
+        @Html.ActionLink("Quay Lại", "Index", null, new { @class = "btn btn-default" })
+    </p>
+}
+
+

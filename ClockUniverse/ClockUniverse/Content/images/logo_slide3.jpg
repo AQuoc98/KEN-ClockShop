@@ -1,0 +1,1003 @@
+<!DOCTYPE html>
+<!-- saved from url=(0022)http://watchcenter.ch/ -->
+<html lang="en" class=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style>.gm-control-active>img{box-sizing:content-box;display:none;left:50%;pointer-events:none;position:absolute;top:50%;transform:translate(-50%,-50%)}.gm-control-active>img:nth-child(1){display:block}.gm-control-active:hover>img:nth-child(1),.gm-control-active:active>img:nth-child(1){display:none}.gm-control-active:hover>img:nth-child(2),.gm-control-active:active>img:nth-child(3){display:block}
+</style><link type="text/css" rel="stylesheet" href="./logo_slide3_files/css"><style>.gm-ui-hover-effect{opacity:.6}.gm-ui-hover-effect:hover{opacity:1}
+</style><style>.gm-style .gm-style-cc span,.gm-style .gm-style-cc a,.gm-style .gm-style-mtc div{font-size:10px;box-sizing:border-box}
+</style><style>@media print {  .gm-style .gmnoprint, .gmnoprint {    display:none  }}@media screen {  .gm-style .gmnoscreen, .gmnoscreen {    display:none  }}</style><style>.dismissButton{background-color:#fff;border:1px solid #dadce0;color:#1a73e8;border-radius:4px;font-family:Roboto,sans-serif;font-size:14px;height:36px;cursor:pointer;padding:0 24px}.dismissButton:hover{background-color:rgba(66,133,244,0.04);border:1px solid #d2e3fc}.dismissButton:focus{background-color:rgba(66,133,244,0.12);border:1px solid #d2e3fc;outline:0}.dismissButton:hover:focus{background-color:rgba(66,133,244,0.16);border:1px solid #d2e2fd}.dismissButton:active{background-color:rgba(66,133,244,0.16);border:1px solid #d2e2fd;box-shadow:0 1px 2px 0 rgba(60,64,67,0.3),0 1px 3px 1px rgba(60,64,67,0.15)}.dismissButton:disabled{background-color:#fff;border:1px solid #f1f3f4;color:#3c4043}
+</style><style>.gm-style-pbc{transition:opacity ease-in-out;background-color:rgba(0,0,0,0.45);text-align:center}.gm-style-pbt{font-size:22px;color:white;font-family:Roboto,Arial,sans-serif;position:relative;margin:0;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}
+</style><style>.gm-style img{max-width: none;}.gm-style {font: 400 11px Roboto, Arial, sans-serif; text-decoration: none;}</style>
+
+<title>Watch Center</title>
+<meta name="description" content="Default Description">
+<meta name="keywords" content="Magento, Varien, E-commerce">
+<meta name="robots" content="INDEX,FOLLOW">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="icon" href="http://watchcenter.ch/skin/frontend/smartwave/granada/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://watchcenter.ch/skin/frontend/smartwave/granada/favicon.ico" type="image/x-icon">
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'http://watchcenter.ch/js/blank.html';
+    var BLANK_IMG = 'http://watchcenter.ch/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+    <link rel="stylesheet" id="Open_Sans_default-css" href="./logo_slide3_files/css(1)" type="text/css" media="screen">
+
+            <link rel="stylesheet" href="./logo_slide3_files/css(2)" type="text/css">
+    
+            <link rel="stylesheet" href="./logo_slide3_files/css(3)" type="text/css">
+    
+            <link rel="stylesheet" id="Open_Sans_secondary-css" href="./logo_slide3_files/css(1)" type="text/css" media="screen">
+    <link rel="stylesheet" type="text/css" href="./logo_slide3_files/calendar-win2k-1.css">
+<link rel="stylesheet" type="text/css" href="./logo_slide3_files/jquery.fancybox.css">
+<link rel="stylesheet" type="text/css" href="./logo_slide3_files/ajaxaddto.css">
+<link rel="stylesheet" type="text/css" href="./logo_slide3_files/owl.carousel.css">
+<link rel="stylesheet" type="text/css" href="./logo_slide3_files/owl.transitions.css">
+<link rel="stylesheet" type="text/css" href="./logo_slide3_files/bootstrap-theme.min.css">
+<link rel="stylesheet" type="text/css" href="./logo_slide3_files/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="./logo_slide3_files/styles.css" media="all">
+<link rel="stylesheet" type="text/css" href="./logo_slide3_files/widgets.css" media="all">
+<link rel="stylesheet" type="text/css" href="./logo_slide3_files/custom.css" media="all">
+<link rel="stylesheet" type="text/css" href="./logo_slide3_files/style.css" media="all">
+<link rel="stylesheet" type="text/css" href="./logo_slide3_files/font-awesome.min.css" media="all">
+<link rel="stylesheet" type="text/css" href="./logo_slide3_files/cat-icon.css" media="all">
+<link rel="stylesheet" type="text/css" href="./logo_slide3_files/megamenu.css" media="all">
+<link rel="stylesheet" type="text/css" href="./logo_slide3_files/megamenu_responsive.css" media="all">
+<link rel="stylesheet" type="text/css" href="./logo_slide3_files/styles(1).css" media="all">
+<link rel="stylesheet" type="text/css" href="./logo_slide3_files/style(1).css" media="all">
+<link rel="stylesheet" type="text/css" href="./logo_slide3_files/easyflags.css" media="all">
+<link rel="stylesheet" type="text/css" href="./logo_slide3_files/granada-font.css" media="all">
+<link rel="stylesheet" type="text/css" href="./logo_slide3_files/design_default.css" media="all">
+<link rel="stylesheet" type="text/css" href="./logo_slide3_files/setting_default.css" media="all">
+<link rel="stylesheet" type="text/css" href="./logo_slide3_files/timer.css" media="all">
+<link rel="stylesheet" type="text/css" href="./logo_slide3_files/print.css" media="print">
+<script type="text/javascript" src="./logo_slide3_files/prototype.js.tải xuống"></script>
+<script type="text/javascript" src="./logo_slide3_files/ccard.js.tải xuống"></script>
+<script type="text/javascript" src="./logo_slide3_files/validation.js.tải xuống"></script>
+<script type="text/javascript" src="./logo_slide3_files/builder.js.tải xuống"></script>
+<script type="text/javascript" src="./logo_slide3_files/effects.js.tải xuống"></script>
+<script type="text/javascript" src="./logo_slide3_files/dragdrop.js.tải xuống"></script>
+<script type="text/javascript" src="./logo_slide3_files/controls.js.tải xuống"></script>
+<script type="text/javascript" src="./logo_slide3_files/slider.js.tải xuống"></script>
+<script type="text/javascript" src="./logo_slide3_files/js.js.tải xuống"></script>
+<script type="text/javascript" src="./logo_slide3_files/form.js.tải xuống"></script>
+<script type="text/javascript" src="./logo_slide3_files/menu.js.tải xuống"></script>
+<script type="text/javascript" src="./logo_slide3_files/translate.js.tải xuống"></script>
+<script type="text/javascript" src="./logo_slide3_files/cookies.js.tải xuống"></script>
+<script type="text/javascript" src="./logo_slide3_files/calendar.js.tải xuống"></script>
+<script type="text/javascript" src="./logo_slide3_files/calendar-setup.js.tải xuống"></script>
+<script type="text/javascript" src="./logo_slide3_files/jquery-1.11.2.min.js.tải xuống"></script>
+<script type="text/javascript" src="./logo_slide3_files/jquery-noconflict.js.tải xuống"></script>
+<script type="text/javascript" src="./logo_slide3_files/jquery.fancybox.js.tải xuống"></script>
+<script type="text/javascript" src="./logo_slide3_files/ajaxaddto.js.tải xuống"></script>
+<script type="text/javascript" src="./logo_slide3_files/owl.carousel.min.js.tải xuống"></script>
+<script type="text/javascript" src="./logo_slide3_files/product.js.tải xuống"></script>
+<script type="text/javascript" src="./logo_slide3_files/configurable.js.tải xuống"></script>
+<script type="text/javascript" src="./logo_slide3_files/jquery-migrate-1.0.0.js.tải xuống"></script>
+<script type="text/javascript" src="./logo_slide3_files/bootstrap.min.js.tải xuống"></script>
+<script type="text/javascript" src="./logo_slide3_files/timer.js.tải xuống"></script>
+<script type="text/javascript" src="./logo_slide3_files/megamenu.js.tải xuống"></script>
+<script type="text/javascript" src="./logo_slide3_files/bundle.js.tải xuống"></script>
+<script type="text/javascript" src="./logo_slide3_files/sw_quickview.js.tải xuống"></script>
+<script type="text/javascript" src="./logo_slide3_files/twitterfetcher.js.tải xuống"></script>
+<script type="text/javascript" src="./logo_slide3_files/jquery.granada.js.tải xuống"></script>
+<script type="text/javascript" src="./logo_slide3_files/waypoints.min.js.tải xuống"></script>
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="http://watchcenter.ch/skin/frontend/base/default/css/styles-ie.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="http://watchcenter.ch/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="http://watchcenter.ch/skin/frontend/base/default/js/ie6.js"></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type="text/javascript" src="http://watchcenter.ch/js/smartwave/jquery/html5shiv.js"></script>
+<script type="text/javascript" src="http://watchcenter.ch/js/smartwave/jquery/respond.min.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.watchcenter.ch';
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["IE","PA","HK","MO"];
+//]]>
+</script>
+<style type="text/css">
+	#loading-mask { display: none; font-size: 1.1em; font-weight: bold; opacity: 0.8; position: fixed;left: 0; text-align: center; z-index: 20002; width: 100%; height: 100%; }
+#after-loading-success-message { display:none;  font-size: 1.1em; position: fixed; text-align: center; z-index: 20002; width: 100%;height: 100%;left:0; top:0;}
+#success-message-container { }</style><script type="text/javascript">
+//<![CDATA[
+	if (typeof EM == 'undefined') EM = {};
+	EM.Quickview = {
+		BASE_URL        : "http://watchcenter.ch/",
+        SW_EN           : 1,
+		QS_FRM_WIDTH    :"1000",
+		QS_FRM_HEIGHT   : "700"
+	};
+//]]	
+</script> <script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script><style type="text/css">.fancybox-margin{margin-right:17px;}</style><script type="text/javascript" charset="UTF-8" src="./logo_slide3_files/common.js.tải xuống"></script><script type="text/javascript" charset="UTF-8" src="./logo_slide3_files/util.js.tải xuống"></script><script type="text/javascript" charset="UTF-8" src="./logo_slide3_files/map.js.tải xuống"></script><script type="text/javascript" charset="UTF-8" src="./logo_slide3_files/marker.js.tải xuống"></script><script type="text/javascript" charset="UTF-8" src="./logo_slide3_files/overlay.js.tải xuống"></script><script type="text/javascript" charset="UTF-8" src="./logo_slide3_files/controls.js(1).tải xuống"></script><script type="text/javascript" charset="UTF-8" src="./logo_slide3_files/onion.js.tải xuống"></script><script type="text/javascript" charset="UTF-8" src="./logo_slide3_files/stats.js.tải xuống"></script><style type="text/css">@-webkit-keyframes _gm8974 {
+0% { -webkit-transform: translate3d(0px,-500px,0); -webkit-animation-timing-function: ease-in; }
+50% { -webkit-transform: translate3d(0px,0px,0); -webkit-animation-timing-function: ease-out; }
+75% { -webkit-transform: translate3d(0px,-20px,0); -webkit-animation-timing-function: ease-in; }
+100% { -webkit-transform: translate3d(0px,0px,0); -webkit-animation-timing-function: ease-out; }
+}
+</style></head>
+<body class=" cms-index-index cms-watch-center-en ">
+<div class="wrapper">
+        <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
+        </div>
+    </noscript>
+    <div class="page">
+        <div class="fixed-header-area fixed-menu-type hidden-xs hidden-sm fixed-top_main_type_3 fixed-already">
+    <div class="fixed-header">
+        <div class="container">
+            <div class="menu-wrapper">
+                <div class="menu-icon hidden-md hidden-lg"><i class="fa fa-bars"></i></div>
+                <div class="logo-with-menu">
+                                                            <h1 class="logo"><strong>Watch center</strong><a href="http://watchcenter.ch/index.php/" title="Watch center"><img src="./logo_slide3_files/logo.png" alt="Watch center"></a></h1>
+                                    </div>
+                <div class="menu-all-pages-container">
+                    <ul class="menu">
+                        <li>
+    <a href="http://watchcenter.ch/" class="act">
+       <span>Home</span>
+    </a>
+</li>
+<li class="menu-full-width">
+<a href="http://watchcenter.ch/index.php/watches.html" class="">Watches</a>
+<div class="nav-sublist-dropdown" style="display: none;">
+<div class="container">
+<div class="mega-columns clearfix">
+<div class="block1 col-sm-12">
+<div class="row">
+<ul>
+<li class="menu-item col-sw-4 "><a class="level1" href="http://watchcenter.ch/index.php/watches/pocket-watches.html"><span>Pocket watches</span></a></li><li class="menu-item col-sw-4 "><a class="level1" href="http://watchcenter.ch/index.php/watches/table-watches.html"><span>Table watches</span></a></li><li class="menu-item col-sw-4 "><a class="level1" href="http://watchcenter.ch/index.php/watches/gioielli.html"><span>Jewelry</span></a></li><li class="menu-item col-sw-4 "><a class="level1" href="http://watchcenter.ch/index.php/watches/collectibles.html"><span>Collectibles</span></a></li><li class="clearfix"></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+
+
+<li class="menu-full-width"><a href="http://watchcenter.ch/index.php/sell_your_watch">SELL YOUR WATCH</a></li>
+
+
+<li class="menu-full-width"><span class="widget widget-cms-link-inline"><a href="http://watchcenter.ch/index.php/store" title="WATCH CENTER / ABOUT US"><span>ABOUT US</span></a></span>
+</li>
+<li class="menu-full-width"><span class="widget widget-cms-link-inline"><a href="http://watchcenter.ch/index.php/workshop" title="WATCH CENTER / EXPERIENCE AND PROFESSIONALISM"><span>WORKSHOP</span></a></span>
+</li>
+<li class="menu-full-width"><span class="widget widget-cms-link-inline"><a href="http://watchcenter.ch/index.php/contact-us" title="WATCH CENTER / Contact Us"><span>CONTACT US</span></a></span>
+</li>
+
+                    </ul>
+                </div>
+                <div class="modal-buttons">
+                    
+<div class="header-icon-cart">
+    <div class="cart-sum header-item">
+                <a href="http://watchcenter.ch/index.php/checkout/cart/"> </a>
+    </div>
+    <div class="cart-popup-container">
+        <div class="cart-popup">
+                            <p class="empty">You have no items in your shopping cart.</p>
+                    </div>
+        <div class="summary">            
+        </div>        
+    </div>
+</div>                    <div class="dropdown top-bar-account top-bar-icon top-bar-item right-align">
+    <a href="http://watchcenter.ch/#" class="btn-top-account dropdown-toggle"></a>
+    <ul class="dropdown-menu">
+                                    <li class="myaccount-link"><a href="http://watchcenter.ch/index.php/customer/account/" title="My Account">My Account</a></li>
+                                                <li class="checkout-link"><a href="http://watchcenter.ch/index.php/checkout/onepage/" title="Checkout">Checkout</a></li>
+                                                <li class="mywishlist-link"><a href="http://watchcenter.ch/index.php/wishlist/" title="My Wishlist">My Wishlist</a></li>
+                                                <li class="login-link"><a href="http://watchcenter.ch/index.php/customer/account/login/" title="Log In">Log In</a></li>
+                            <li class="sticky-currency sticky-has-sub">
+        <a href="http://watchcenter.ch/#" class="clearfix"><span class="f-left">Currency</span><span class="dropdown-value active-color">CHF</span></a>
+    <ul class="dropdown-menu">
+                <li>
+            <a href="http://watchcenter.ch/index.php/directory/currency/switch/currency/USD/uenc/aHR0cDovL3dhdGNoY2VudGVyLmNoLw,,/">US Dollar</a>
+        </li>
+            <li>
+            <a href="http://watchcenter.ch/index.php/directory/currency/switch/currency/EUR/uenc/aHR0cDovL3dhdGNoY2VudGVyLmNoLw,,/">Euro</a>
+        </li>
+            <li>
+            <a href="http://watchcenter.ch/index.php/directory/currency/switch/currency/CHF/uenc/aHR0cDovL3dhdGNoY2VudGVyLmNoLw,,/" class="current-option clearfix">Swiss Franc</a>
+        </li>
+        </ul>    
+</li>
+        
+    <li class="sticky-language sticky-has-sub">
+        <a href="http://watchcenter.ch/#" class="clearfix"><span class="f-left">Language</span><span class="dropdown-value active-color">English</span></a>
+        <ul class="dropdown-menu">
+                            <li>
+                                        <a href="http://watchcenter.ch/index.php/?___store=default&amp;___from_store=default" class="current-option clearfix"><span class="f-left">English</span><img src="./logo_slide3_files/default.jpg" alt="English"></a>
+                </li>
+                            <li>
+                                        <a href="http://watchcenter.ch/index.php/?___store=italian&amp;___from_store=default" class="clearfix"><span class="f-left">Italiano</span><img src="./logo_slide3_files/italian.jpg" alt="Italiano"></a>
+                </li>
+                    </ul>
+    </li>
+    </ul>
+    <script type="text/javascript">
+        (function($){
+            $('.top-bar-account > a').click(function(event){
+                event.preventDefault();
+            });
+            $('.top-bar-account').hover(function(){
+               $(this).addClass('open'); 
+            },
+            function(){
+               $(this).removeClass('open'); 
+            });
+        })(jQuery);
+    </script>
+</div>
+                    <div class="top-icon-search">
+    <a href="http://watchcenter.ch/#" data-toggle-active="#searchStickyModal" data-focus="#search_st" class="search-link">s</a>
+    <div id="searchStickyModal" class="input-search">
+        <div class="searchFormWrapper">
+            <form id="search_sticky_modal_form" action="http://watchcenter.ch/index.php/catalogsearch/result/" method="get">
+                <input id="search_st" type="text" name="q" value="" class="input-text" maxlength="128">
+                <a href="http://watchcenter.ch/#" class="input-close" data-toggle-active="#searchStickyModal">close</a>
+                <script type="text/javascript">
+                    //<![CDATA[
+                    var searchStForm = new Varien.searchForm('search_sticky_modal_form', 'search_st', 'Search entire store here...');
+                    //]]>
+                </script>
+            </form>
+        </div>
+    </div>
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div class="header-container top_main_type_3">
+    <div class="top-bar">
+        <div class="container">
+            <div class="top-bar-left">
+                <ul class="links hidden-sm hidden-xs">
+                        <li class="myaccount-link"><a href="http://watchcenter.ch/index.php/customer/account/" title="My Account">My Account</a></li>
+                                <li class="checkout-link"><a href="http://watchcenter.ch/index.php/checkout/onepage/" title="Checkout">Checkout</a></li>
+                                <li class="mywishlist-link"><a href="http://watchcenter.ch/index.php/wishlist/" title="My Wishlist">My Wishlist</a></li>
+                                <li class="login-link"><a href="http://watchcenter.ch/index.php/customer/account/login/" title="Log In">Log In</a></li>
+            </ul>
+                <div class="dropdown top-bar-account top-bar-item">
+    <a href="http://watchcenter.ch/#" class="btn-top-account dropdown-toggle">
+        My Account<span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+                                    <li class="myaccount-link"><a href="http://watchcenter.ch/index.php/customer/account/" title="My Account">My Account</a></li>
+                                                <li class="checkout-link"><a href="http://watchcenter.ch/index.php/checkout/onepage/" title="Checkout">Checkout</a></li>
+                                                <li class="mywishlist-link"><a href="http://watchcenter.ch/index.php/wishlist/" title="My Wishlist">My Wishlist</a></li>
+                                                <li class="login-link"><a href="http://watchcenter.ch/index.php/customer/account/login/" title="Log In">Log In</a></li>
+                        </ul>
+    <script type="text/javascript">
+        (function($){
+            $('.top-bar-account > a').click(function(event){
+               event.preventDefault();
+            });
+            $('.top-bar-account').hover(function(){
+               $(this).addClass('open');
+            },
+            function(){
+               $(this).removeClass('open');
+            });
+        })(jQuery);
+    </script>
+</div>
+            </div>
+            <div class="top-bar-right">
+                    <div class="btn-group btn-select top-bar-language top-bar-item">
+        <a href="http://watchcenter.ch/#" class="current-option">
+            English<span class="caret"></span>
+        </a>
+        <ul class="dropdown-menu">
+                            <li>
+                                        <a href="http://watchcenter.ch/index.php/?___store=default&amp;___from_store=default" class="current-option">English</a>
+                </li>
+                            <li>
+                                        <a href="http://watchcenter.ch/index.php/?___store=italian&amp;___from_store=default">Italiano</a>
+                </li>
+                    </ul>
+        <script type="text/javascript">
+            (function($){
+                $('.top-bar-language > a').click(function(event){
+                    event.preventDefault();
+                });
+                $('.top-bar-language').hover(function(){
+                        $(this).addClass('open');
+                    },
+                    function(){
+                        $(this).removeClass('open');
+                    });
+            })(jQuery);
+        </script>
+    </div>
+                <div class="btn-group btn-select top-bar-currency top-bar-item">
+        <a href="http://watchcenter.ch/#" class="current-option">CHF<span class="caret"></span></a>
+    <ul class="dropdown-menu">
+                <li>
+            <a href="http://watchcenter.ch/index.php/directory/currency/switch/currency/USD/uenc/aHR0cDovL3dhdGNoY2VudGVyLmNoLw,,/">US Dollar</a>
+        </li>
+            <li>
+            <a href="http://watchcenter.ch/index.php/directory/currency/switch/currency/EUR/uenc/aHR0cDovL3dhdGNoY2VudGVyLmNoLw,,/">Euro</a>
+        </li>
+            <li>
+            <a href="http://watchcenter.ch/index.php/directory/currency/switch/currency/CHF/uenc/aHR0cDovL3dhdGNoY2VudGVyLmNoLw,,/" class="current-option">Swiss Franc</a>
+        </li>
+        </ul>
+    <script type="text/javascript">
+        (function($){
+            $('.top-bar-currency > a').click(function(event){
+               event.preventDefault();
+            });
+            $('.top-bar-currency').hover(function(){
+               $(this).addClass('open');
+            },
+            function(){
+               $(this).removeClass('open');
+            });
+        })(jQuery);
+    </script>
+</div>
+                
+<div class="top-minicart">
+    <div class="cart-sum top-bar-item">
+                <a href="http://watchcenter.ch/index.php/checkout/cart/">
+            0 item(s)<span class="top-cart-side"> - <span class="price">CHF0.00</span></span>
+        </a>
+    </div>
+    <div class="cart-popup-container">
+        <div class="cart-popup">
+                            <p class="empty">You have no items in your shopping cart.</p>
+                    </div>
+        <div class="summary">
+        </div>
+    </div>
+</div>                <div class="top-bar-search top-bar-item hidden-sm hidden-xs">
+    <a href="http://watchcenter.ch/catalogsearch/advanced/" class="search-link">search</a>
+    
+</div>
+            </div>
+        </div>
+    </div>
+    <div class="header">
+        <div class="container">
+            <a href="http://watchcenter.ch/index.php/" title="Watch center" class="logo abs-center-logo"><strong>Watch center</strong><img src="./logo_slide3_files/logo.png" alt="Watch center"></a>
+            <div class="header-wrapper">
+    <div class="main-nav visible-md visible-lg">
+        <div class="menu-wrapper">
+            <div class="menu-all-pages-container">
+                                                        <ul class="menu left-menu">
+                        <li>
+    <a href="http://watchcenter.ch/" class="act">
+       <span>Home</span>
+    </a>
+</li>
+<li class="menu-full-width">
+<a href="http://watchcenter.ch/index.php/watches.html" class="">Watches</a>
+<div class="nav-sublist-dropdown" style="display: none;">
+<div class="container">
+<div class="mega-columns clearfix">
+<div class="block1 col-sm-12">
+<div class="row">
+<ul>
+<li class="menu-item col-sw-4 "><a class="level1" href="http://watchcenter.ch/index.php/watches/pocket-watches.html"><span>Pocket watches</span></a></li><li class="menu-item col-sw-4 "><a class="level1" href="http://watchcenter.ch/index.php/watches/table-watches.html"><span>Table watches</span></a></li><li class="menu-item col-sw-4 "><a class="level1" href="http://watchcenter.ch/index.php/watches/gioielli.html"><span>Jewelry</span></a></li><li class="menu-item col-sw-4 "><a class="level1" href="http://watchcenter.ch/index.php/watches/collectibles.html"><span>Collectibles</span></a></li><li class="clearfix"></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+
+
+<li class="menu-full-width"><a href="http://watchcenter.ch/index.php/sell_your_watch">SELL YOUR WATCH</a></li>
+
+                    </ul>
+                    <ul class="menu right-menu">
+                        
+
+
+
+<li class="menu-full-width"><span class="widget widget-cms-link-inline"><a href="http://watchcenter.ch/index.php/store" title="WATCH CENTER / ABOUT US"><span>ABOUT US</span></a></span>
+</li>
+<li class="menu-full-width"><span class="widget widget-cms-link-inline"><a href="http://watchcenter.ch/index.php/workshop" title="WATCH CENTER / EXPERIENCE AND PROFESSIONALISM"><span>WORKSHOP</span></a></span>
+</li>
+<li class="menu-full-width"><span class="widget widget-cms-link-inline"><a href="http://watchcenter.ch/index.php/contact-us" title="WATCH CENTER / Contact Us"><span>CONTACT US</span></a></span>
+</li>
+
+                    </ul>
+                            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var SW_MENU_POPUP_WIDTH = 0;
+//]]>
+</script>        </div>
+    </div>
+    <div class="mobile-widget-container">
+        <div class="container">
+            <div class="mobile-widget-wrapper clearfix">
+                <div class="menu-icon f-left">
+                    <i class="icon-reorder">menu</i>
+                </div>
+                <div class="pos-rel f-right">
+                    
+<div class="header-icon-cart">
+    <div class="cart-sum header-item">
+                <a href="http://watchcenter.ch/index.php/checkout/cart/"> </a>
+    </div>
+    <div class="cart-popup-container">
+        <div class="cart-popup">
+                            <p class="empty">You have no items in your shopping cart.</p>
+                    </div>
+        <div class="summary">            
+        </div>        
+    </div>
+</div>                    <div class="top-icon-search">
+    <a href="http://watchcenter.ch/#" data-toggle-active="#searchIconForm" data-focus="#search_o" class="search-link">search</a>
+    <div id="searchIconForm" class="input-search">
+        <div class="searchFormWrapper">
+            <form id="search_icon_form" action="http://watchcenter.ch/index.php/catalogsearch/result/" method="get">
+                <input id="search_o" type="text" name="q" value="" class="input-text" maxlength="128">
+                <a href="http://watchcenter.ch/#" class="input-close" data-toggle-active="#searchIconForm">close</a>
+                <script type="text/javascript">
+                    //<![CDATA[
+                    var searchMdForm = new Varien.searchForm('search_icon_form', 'search_o', 'Search entire store here...');
+                    //]]>
+                </script>
+            </form>
+        </div>
+    </div>
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="mobile-nav mobile-top_main_type_3">
+    <div class="menu-all-pages-container container">
+        <ul class="menu sw-mobile-menu">
+            <li>
+    <a href="http://watchcenter.ch/" class="act">
+       <span>Home</span>
+    </a>
+</li>
+<li class="menu-item menu-item-has-children menu-parent-item"><span class="open-child button">(open)</span>
+<a href="http://watchcenter.ch/index.php/watches.html" class="">Watches</a>
+<ul>
+<li class="menu-item "><a class="level1" href="http://watchcenter.ch/index.php/watches/pocket-watches.html"><span>Pocket watches</span></a></li><li class="menu-item "><a class="level1" href="http://watchcenter.ch/index.php/watches/table-watches.html"><span>Table watches</span></a></li><li class="menu-item "><a class="level1" href="http://watchcenter.ch/index.php/watches/gioielli.html"><span>Jewelry</span></a></li><li class="menu-item "><a class="level1" href="http://watchcenter.ch/index.php/watches/collectibles.html"><span>Collectibles</span></a></li>
+</ul>
+</li>
+
+<li><a href="http://watchcenter.ch/store">About Us</a>
+</li><li><a href="http://watchcenter.ch/workshop">Workshop</a>
+</li><li><a href="http://watchcenter.ch/contact-us">Contact Us</a>
+
+</li><li class="clearBoth"></li>        </ul>
+    </div>
+</div>            <div id="slideshow">
+        <div class="homepage-slider">
+<div id="homepage-slider-6" class="homepage-slider-6 owl-carousel owl-theme gray-dark-font white-btn-container" style="opacity: 1; display: block;">
+
+
+<div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 13490px; left: 0px; display: block; transition: all 0ms ease 0s; transform: translate3d(-2698px, 0px, 0px); transform-origin: 3372.5px center; perspective-origin: 3372.5px center;"><div class="owl-item" style="width: 1349px;"><div class="item">
+<div class="item-bg"><img alt="" src="./logo_slide3_files/WatchCenter_1home-slider1.jpg"></div>
+<div class="item-content content-1" style="left: 61px;">
+<div class="col-lg-7">
+<div class="content upper-font content-sub-title1 white-font sub-title"> </div>
+<h2 class="content upper-font content-title1 white-font"> </h2>
+<div class="content content-description1 white-font secondary-font"> </div>
+<div class="content content-button1"><a class="button button-custom button-custom-active button-white btn-lg" href="http://watchcenter.ch/index.php/watches.html">WATCH</a></div>
+</div>
+</div>
+</div></div><div class="owl-item" style="width: 1349px;"><div class="item">
+<div class="item-bg"><img alt="" src="./logo_slide3_files/WatchCenter_1home-slider2.jpg"></div>
+<div class="item-content content-1">
+<div class="col-lg-7">
+<div class="content upper-font content-sub-title1 white-font sub-title"></div>
+<h2 class="content upper-font content-title1 white-font" style="font-size: 42px;"></h2>
+<div class="content content-description1 white-font secondary-font"></div>
+<div class="content content-button1"><a class="button button-custom button-custom-active button-white btn-lg" href="http://watchcenter.ch/index.php/watches.html">WATCH</a></div>
+</div>
+</div>
+</div></div><div class="owl-item" style="width: 1349px;"><div class="item">
+<div class="item-bg"><img alt="" src="./logo_slide3_files/WatchCenter_1home-slider3.jpg"></div>
+<div class="item-content content-1 dx">
+<div class="col-lg-7" style="float:right;">
+<div class="content upper-font content-sub-title1 white-font sub-title"></div>
+<h2 class="content upper-font content-title1 white-font"></h2>
+<div class="content content-description1 white-font secondary-font"></div>
+<div class="content content-button1"><a class="button button-custom button-custom-active button-white btn-lg" href="http://watchcenter.ch/index.php/watches.html">WATCH</a></div>
+</div>
+</div>
+</div></div><div class="owl-item" style="width: 1349px;"><div class="item">
+<div class="item-bg"><img alt="" src="./logo_slide3_files/WatchCenter_1home-slider4.jpg"></div>
+<div class="item-content content-1 dx">
+<div class="col-lg-7" style="float:right;">
+<div class="content upper-font content-sub-title1 white-font sub-title"></div>
+<h2 class="content upper-font content-title1 white-font"></h2>
+<div class="content content-description1 white-font secondary-font"></div>
+<div class="content content-button1"><a class="button button-custom button-custom-active button-white btn-lg" href="http://watchcenter.ch/index.php/watches.html">WATCH</a></div>
+</div>
+</div>
+</div></div><div class="owl-item" style="width: 1349px;"><div class="item">
+<div class="item-bg"><img alt="" src="./logo_slide3_files/WatchCenter_1home-slider5.jpg"></div>
+<div class="item-content content-1 dx">
+<div class="col-lg-7" style="float:right;">
+<div class="content upper-font content-sub-title1 white-font sub-title"></div>
+<h2 class="content upper-font content-title1 white-font"></h2>
+<div class="content content-description1 white-font secondary-font"></div>
+<div class="content content-button1"><a class="button button-custom button-custom-active button-white btn-lg" href="http://watchcenter.ch/index.php/watches.html">WATCH</a></div>
+</div>
+</div>
+</div></div></div></div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="owl-controls clickable"><div class="owl-pagination"><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page active"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div></div><div class="owl-buttons"><div class="owl-prev">prev</div><div class="owl-next">next</div></div></div></div>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+		jQuery('#homepage-slider-6').owlCarousel({
+			singleItem : true,
+			slideSpeed : 500,
+			pagination: true,
+			navigation: true,
+			autoPlay:true,
+			responsiveRefreshRate : 200,
+			transitionStyle : "fade"
+		});
+	});
+</script>
+</div>    </div>
+        <div class="main-container full-layout">
+            <div class="main">
+                                                <div class="col-main">
+                                        
+<script type="text/javascript">
+//<![CDATA[
+enUS = {"m":{"wide":["January","February","March","April","May","June","July","August","September","October","November","December"],"abbr":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]}}; // en_US locale reference
+Calendar._DN = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]; // full day names
+Calendar._SDN = ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]; // short day names
+Calendar._FD = 1; // First day of the week. "0" means display Sunday first, "1" means display Monday first, etc.
+Calendar._MN = ["January","February","March","April","May","June","July","August","September","October","November","December"]; // full month names
+Calendar._SMN = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]; // short month names
+Calendar._am = "am"; // am/pm
+Calendar._pm = "pm";
+
+// tooltips
+Calendar._TT = {};
+Calendar._TT["INFO"] = 'About the calendar';
+
+Calendar._TT["ABOUT"] =
+'DHTML Date/Time Selector\n' +
+"(c) dynarch.com 2002-2005 / Author: Mihai Bazon\n" +
+'For latest version visit: http://www.dynarch.com/projects/calendar/\n' +
+'Distributed under GNU LGPL. See http://gnu.org/licenses/lgpl.html for details.' +
+'\n\n' +
+'Date selection:\n' +
+'- Use the \xab, \xbb buttons to select year\n' +
+'- Use the \u2039 buttons to select month\n' +
+'- Hold mouse button on any of the above buttons for faster selection.';
+Calendar._TT["ABOUT_TIME"] = '\n\n' +
+'Time selection:\n' +
+'- Click on any of the time parts to increase it\n' +
+'- or Shift-click to decrease it\n' +
+'- or click and drag for faster selection.';
+
+Calendar._TT["PREV_YEAR"] = 'Prev. year (hold for menu)';
+Calendar._TT["PREV_MONTH"] = 'Prev. month (hold for menu)';
+Calendar._TT["GO_TODAY"] = 'Go Today';
+Calendar._TT["NEXT_MONTH"] = 'Next month (hold for menu)';
+Calendar._TT["NEXT_YEAR"] = 'Next year (hold for menu)';
+Calendar._TT["SEL_DATE"] = 'Select date';
+Calendar._TT["DRAG_TO_MOVE"] = 'Drag to move';
+Calendar._TT["PART_TODAY"] = ' (' + "today" + ')';
+
+// the following is to inform that "%s" is to be the first day of week
+Calendar._TT["DAY_FIRST"] = 'Display %s first';
+
+// This may be locale-dependent. It specifies the week-end days, as an array
+// of comma-separated numbers. The numbers are from 0 to 6: 0 means Sunday, 1
+// means Monday, etc.
+Calendar._TT["WEEKEND"] = "0,6";
+
+Calendar._TT["CLOSE"] = 'Close';
+Calendar._TT["TODAY"] = "today";
+Calendar._TT["TIME_PART"] = '(Shift-)Click or drag to change value';
+
+// date formats
+Calendar._TT["DEF_DATE_FORMAT"] = "%e %b %Y";
+Calendar._TT["TT_DATE_FORMAT"] = "%e %B %Y";
+
+Calendar._TT["WK"] = "Week";
+Calendar._TT["TIME"] = 'Time:';
+//]]>
+</script>
+<div id="loading-mask">
+    <div class="background-overlay"></div>
+	<p id="loading_mask_loader" class="loader">
+		<img alt="Loading.." src="./logo_slide3_files/ajax-loader.gif">
+	</p>
+</div>
+<div id="after-loading-success-message">
+	<div class="background-overlay"></div>
+	<div id="success-message-container" class="loader">
+        <div class="bordered-container">
+            <p id="success-message">Product was successfully added to your shopping cart.</p>
+                        <div class="timer active-color">5</div>
+            <button type="button" name="finish_and_checkout" id="finish_and_checkout" class="button btn-cart"><span><span>Go to cart page</span></span></button>
+            <button type="button" name="continue_shopping" id="continue_shopping" class="button btn-cart"><span><span>Continue shopping</span></span></button>
+        </div>
+    </div>
+</div>
+<div id="after-loading-cw-message">
+    <div class="background-overlay"></div>
+    <div id="success-cw-message-container" class="loader">
+        <div class="bordered-container">
+            <p id="cw-success-message">Product was successfully added to your comparison list.</p>
+            <button type="button" name="continue_shopping" id="continue_view" class="button button-custom button-custom-active"><span><span>Close</span></span></button>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+        var init_timer = 5;
+		jQuery('#finish_and_checkout').click(function(){location.href = 'http://watchcenter.ch/index.php/checkout/cart/'});
+		jQuery('#continue_shopping').click(function(){jQuery('#after-loading-success-message').fadeOut();});
+        jQuery('#continue_view').click(function(){jQuery('#after-loading-cw-message').fadeOut();});
+</script><div class="std"><div class="banner-block">
+    <div class="row banner-row">
+            <div class="banner-col banner-col-3-2"><img alt="" src="./logo_slide3_files/b1.jpg">
+                <div class="vertical-middle banner-row-center bb1">
+                    <div class="secondary-font bb-sub-title">FREE WORLDWIDE SHIPPING</div>
+                    <h1 class="bb-title">DISCOVER THE LATEST ARRIVALS</h1>
+                    	<div class="home_contenitori_orologi row">
+                        	<div class="col-sm-4">
+                                <a href="http://watchcenter.ch/index.php/gmt-master-ref-1675-brown-dial-in-yellow-gold-from-1971.html">
+                                <img src="./logo_slide3_files/dial_3.jpg" alt="">
+                                </a>
+                                <p class="title">ROLEX</p>
+                                <p>GMT Master ref.1675</p>
+                            </div>    
+                        	<div class="col-sm-4">
+                               <a href="http://watchcenter.ch/index.php/submariner-date-18kt-yellow-gold-ref-1680-purple-dial.html">
+                               <img src="./logo_slide3_files/dial_2_1.jpg" alt="">
+                                </a>
+                                <p class="title">ROLEX</p>
+                                <p>Submariner ref.1680</p>
+                            </div>
+                            <div class="col-sm-4">
+                                <a href="http://watchcenter.ch/index.php/rare-vintage-chrono-ref-533-18kt-rose-gold.html?___store=default&amp;___from_store=italian">  
+                                <img src="./logo_slide3_files/dial_3_1.jpg" alt="">
+                                </a>
+                                <p class="title">PATEK PHILIPPE</p>
+                                <p>Ref.533 Rose Gold</p>                                
+                         	</div>       
+                         </div>
+                    <a class="button button-custom button-custom-active button-white btn-lg" href="http://watchcenter.ch/index.php/watches.html">WATCHES</a>
+                </div>
+            </div>
+            
+            <div class="banner-col banner-col-3-1"><img alt="" src="./logo_slide3_files/b2_1.jpg">
+                <div class="vertical-middle1 banner-row-center bb2">
+
+    
+                    <a class="button button-custom button-custom-active button-white btn-lg" href="http://watchcenter.ch/index.php/store" style="position: absolute; bottom: 25px;    margin: 0 auto;    width: 160px;left: 0; right: 0;">ABOUT US</a>
+                </div>
+            </div>
+    </div>
+</div>
+
+
+<div class="banner-block">
+<div class="row banner-row">
+<div class="banner-col banner-col-3-1"><img alt="" src="./logo_slide3_files/box3_bg.jpg">
+<div class="vertical-middle banner-row-center bb8">
+<div class="secondary-font bb-sub-title">RELIABILITY</div>
+<a target="_blank" href="http://www.chrono24.ch/"><img style="width:200px !important; height:200px  !important; margin:0 auto; margin-bottom: 14px;" alt="Chrono24 Trusted Seller" src="./logo_slide3_files/trusted-seller-icon.htm"></a>
+<a class="button button-custom button-custom-active button-gray btn-lg" style="font-family: Open Sans; font-weight: bold; font-size: 14px;" href="http://www.chrono24.it/search/index.htm?customerId=10846&amp;dosearch=true" target="_blank">OUR OFFERS</a></div>
+</div>
+			<div class="banner-col banner-col-3-2">
+                <img alt="" src="./logo_slide3_files/box4_bg.jpg">
+                <div class="vertical-middle banner-row-center bb9">
+                <div class="sub-title bb-sub-title">QUOTES</div>
+                <h1 class="bb-title">SELL US YOUR WATCH</h1>
+                <div class="secondary-font bb-comment" style="font-family: Open Sans Light; font-size: 18px;">We buy new and second-hand watches by the most prestigious brands.<br>Offer us your watch.</div>
+                <a class="button button-custom button-custom-active button-white btn-lg" href="mailto:info@watchcenter.ch?subject=Sell%20us%20your%20watch&amp;body=We%20buy%20new%20and%20second-hand%20watches%20by%20the%20most%20prestigious%20brands">SEND US A MESSAGE</a>
+   			</div>
+	</div>
+</div>
+
+
+<div class=" parallax-section small-block" style="background-color: rgb(250, 247, 240); padding-top: 130px; padding-bottom: 130px; height: 100% !important; background-position: 50% -54px;" data-parallax-speed="0.05"> <!--style="background-image: url('http://watchcenter.ch/media/wysiwyg/home_1_7.jpg');" data-parallax-speed="0.05"-->
+        <div class="vcontainer">
+            <div class="valign-middle">
+                <div class="container">
+                    <div class="row">
+                        <div class="trend-block a-center">
+                            <p class="trend-sub-title upper-font sub-title" style="color: #333333; Font-family: Crimson Text Roman;">LUGANO - SWITZERLAND</p>
+                            <h2 class="trend-title" style="color: #333333;">WATCH CENTER</h2>
+                            <p class="trend-description secondary-font" style="color: #333333;  font-family: Open Sans Light; line-height: 36px; font-size: 18px;">
+                            	In the centre of Lugano, under the porticoes in the renowned pedestrianised area of via Nassa, our store, the Watch Center, can be found at number 25. We specialise in the sale of vintage and collector’s watches, as well as new and second-hand watches by the most prestigious Swiss brands, such as Patek Philippe, Rolex, Vacheron Constantin, Breguet, Audemars Piguet, IWC, Jaeger-LeCoultre, Cartier…<br><br>
+
+Come and find us to explore our collection. You will always be welcomed with a smile by our professional and experienced staff who will be happy to help you choose a watch that will best suit your requirements.
+                            
+                            </p>
+                            <a class="button button-custom button-custom-active button-gray btn-lg" href="http://watchcenter.ch/index.php/store">STORE</a>
+                            <a class="button button-custom button-custom-active button-gray btn-lg" href="http://watchcenter.ch/index.php/workshop">WORKSHOP</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+		</div>
+</div>
+<div class="lookbook-slider-container"></div>
+
+
+<div class="widget widget-static-block"><div class="a-center  newsletter-block1 small-block" style="background-color:#ebdec3;">
+<div class="newsletter-desc secondary-font" style="color: #333333;">Subscribe to the newsletter</div>
+<form action="http://watchcenter.ch/index.php/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail" class="newsletter-form">
+	<div class="newsletter-wrapper gray-newsletter">
+		<div class="input-box">
+		   <input type="text" name="email" id="newsletter" title="Sign up for our newsletter" class="input-text input-email required-entry validate-email" placeholder="Your email adress">
+		</div><div class="actions">
+			<button type="submit" title="Subscribe" class="button button-custom button-custom-active"><span><span>Subscribe</span></span></button>
+		</div>
+	</div>
+</form>
+<script type="text/javascript">
+//<![CDATA[
+	var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+//]]>
+</script></div></div>
+
+
+
+<div id="google_map" style="position: relative; overflow: hidden;"><div style="height: 100%; width: 100%; position: absolute; top: 0px; left: 0px; background-color: rgb(229, 227, 223);"><div class="gm-style" style="position: absolute; z-index: 0; left: 0px; top: 0px; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px;"><div tabindex="0" style="position: absolute; z-index: 0; left: 0px; top: 0px; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; cursor: url(&quot;http://maps.gstatic.com/mapfiles/openhand_8_8.cur&quot;), default; touch-action: pan-x pan-y;"><div style="z-index: 1; position: absolute; left: 50%; top: 50%; width: 100%; transform: translate(0px, 0px);"><div style="position: absolute; left: 0px; top: 0px; z-index: 100; width: 100%;"><canvas style="position: absolute; z-index: 1000; top: -0.315397px; left: -0.0905842px;"></canvas><div style="position: absolute; left: 0px; top: 0px; z-index: 0;"><div style="position: absolute; z-index: 985; transform: matrix(1, 0, 0, 1, -156, -107);"><div style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: -256px; top: 0px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: -256px; top: -256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 0px; top: -256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 256px; top: -256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 256px; top: 0px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 256px; top: 256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 0px; top: 256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: -256px; top: 256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: -512px; top: 256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: -512px; top: 0px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: -512px; top: -256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 512px; top: -256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 512px; top: 0px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 512px; top: 256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: -768px; top: 256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: -768px; top: 0px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: -768px; top: -256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 768px; top: -256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 768px; top: 0px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 768px; top: 256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div></div></div></div><div style="position: absolute; left: 0px; top: 0px; z-index: 101; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 102; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 103; width: 100%;"><div style="width: 70px; height: 85px; overflow: hidden; position: absolute; left: -35px; top: -85px; z-index: 0; animation-duration: 500ms; animation-iteration-count: 1; animation-name: _gm8974;"><img alt="" src="./logo_slide3_files/pin_2.png" draggable="false" style="position: absolute; left: 0px; top: 0px; user-select: none; width: 70px; height: 85px; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: -1;"><div style="position: absolute; z-index: 985; transform: matrix(1, 0, 0, 1, -156, -107);"><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 0px; top: 0px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -256px; top: 0px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -256px; top: -256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 0px; top: -256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 256px; top: -256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 256px; top: 0px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 256px; top: 256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 0px; top: 256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -256px; top: 256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -512px; top: 256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -512px; top: 0px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -512px; top: -256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 512px; top: -256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 512px; top: 0px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 512px; top: 256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -768px; top: 256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -768px; top: 0px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -768px; top: -256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 768px; top: -256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 768px; top: 0px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 768px; top: 256px;"></div></div></div></div><div style="position: absolute; left: 0px; top: 0px; z-index: 0;"><div style="position: absolute; z-index: 985; transform: matrix(1, 0, 0, 1, -156, -107);"><div style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo_slide3_files/vt" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: -256px; top: 0px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo_slide3_files/vt(1)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: -256px; top: -256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo_slide3_files/vt(2)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 0px; top: -256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo_slide3_files/vt(3)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 256px; top: -256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo_slide3_files/vt(4)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 256px; top: 0px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo_slide3_files/vt(5)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 256px; top: 256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo_slide3_files/vt(6)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 0px; top: 256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo_slide3_files/vt(7)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: -256px; top: 256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo_slide3_files/vt(8)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: -512px; top: 256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo_slide3_files/vt(9)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: -512px; top: 0px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo_slide3_files/vt(10)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: -512px; top: -256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo_slide3_files/vt(11)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 512px; top: -256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo_slide3_files/vt(12)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 512px; top: 0px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo_slide3_files/vt(13)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 512px; top: 256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo_slide3_files/vt(14)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: -768px; top: 256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo_slide3_files/vt(15)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: -768px; top: 0px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo_slide3_files/vt(16)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: -768px; top: -256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo_slide3_files/vt(17)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 768px; top: -256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo_slide3_files/vt(18)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 768px; top: 0px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo_slide3_files/vt(19)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 768px; top: 256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo_slide3_files/vt(20)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div></div></div></div><div class="gm-style-pbc" style="z-index: 2; position: absolute; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; left: 0px; top: 0px; opacity: 0;"><p class="gm-style-pbt"></p></div><div style="z-index: 3; position: absolute; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; left: 0px; top: 0px; touch-action: pan-x pan-y;"><div style="z-index: 4; position: absolute; left: 50%; top: 50%; width: 100%; transform: translate(0px, 0px);"><div style="position: absolute; left: 0px; top: 0px; z-index: 104; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 105; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 106; width: 100%;"><div title="" style="width: 70px; height: 85px; overflow: hidden; position: absolute; opacity: 0; cursor: pointer; touch-action: none; left: -35px; top: -85px; z-index: 0;"><img alt="" src="./logo_slide3_files/pin_2.png" draggable="false" style="position: absolute; left: 0px; top: 0px; user-select: none; width: 70px; height: 85px; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div></div><div style="position: absolute; left: 0px; top: 0px; z-index: 107; width: 100%;"></div></div></div></div><iframe aria-hidden="true" frameborder="0" style="z-index: -1; position: absolute; width: 100%; height: 100%; top: 0px; left: 0px; border: none;" src="./logo_slide3_files/saved_resource.html"></iframe><div style="margin-left: 5px; margin-right: 5px; z-index: 1000000; position: absolute; left: 0px; bottom: 0px;"><a target="_blank" rel="noopener" href="https://maps.google.com/maps?ll=46.001413,8.949562&amp;z=15&amp;t=m&amp;hl=vi-VN&amp;gl=US&amp;mapclient=apiv3" title="Mở khu vực này trong Google Maps (mở cửa sổ mới)" style="position: static; overflow: visible; float: none; display: inline;"><div style="width: 66px; height: 26px; cursor: pointer;"><img alt="" src="./logo_slide3_files/google_white5.png" draggable="false" style="position: absolute; left: 0px; top: 0px; width: 66px; height: 26px; user-select: none; border: 0px; padding: 0px; margin: 0px;"></div></a></div><div style="background-color: white; padding: 15px 21px; border: 1px solid rgb(171, 171, 171); font-family: Roboto, Arial, sans-serif; color: rgb(34, 34, 34); box-sizing: border-box; box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 16px; z-index: 10000002; display: none; width: 300px; height: 180px; position: absolute; left: 525px; top: 185px;"><div style="padding: 0px 0px 10px; font-size: 16px;">Dữ liệu Bản đồ</div><div style="font-size: 13px;">Dữ liệu bản đồ ©2019 Google</div><button draggable="false" title="Đóng" aria-label="Đóng" type="button" class="gm-ui-hover-effect" style="background: none; display: block; border: 0px; margin: 0px; padding: 0px; position: absolute; cursor: pointer; user-select: none; top: 0px; right: 0px; width: 37px; height: 37px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224px%22%20height%3D%2224px%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22%23000000%22%3E%0A%20%20%20%20%3Cpath%20d%3D%22M19%206.41L17.59%205%2012%2010.59%206.41%205%205%206.41%2010.59%2012%205%2017.59%206.41%2019%2012%2013.41%2017.59%2019%2019%2017.59%2013.41%2012z%22%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M0%200h24v24H0z%22%20fill%3D%22none%22%2F%3E%0A%3C%2Fsvg%3E%0A" style="pointer-events: none; display: block; width: 13px; height: 13px; margin: 12px;"></button></div><div class="gmnoprint" style="z-index: 1000001; position: absolute; right: 324px; bottom: 0px; width: 146px;"><div draggable="false" class="gm-style-cc" style="user-select: none; height: 14px; line-height: 14px;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><a style="text-decoration: none; cursor: pointer; display: none;">Dữ liệu Bản đồ</a><span>Dữ liệu bản đồ ©2019 Google</span></div></div></div><div class="gmnoscreen" style="position: absolute; right: 0px; bottom: 0px;"><div style="font-family: Roboto, Arial, sans-serif; font-size: 11px; color: rgb(68, 68, 68); direction: ltr; text-align: right; background-color: rgb(245, 245, 245);">Dữ liệu bản đồ ©2019 Google</div></div><div class="gmnoprint gm-style-cc" draggable="false" style="z-index: 1000001; user-select: none; height: 14px; line-height: 14px; position: absolute; right: 113px; bottom: 0px;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><a href="https://www.google.com/intl/vi-VN_US/help/terms_maps.html" target="_blank" rel="noopener" style="text-decoration: none; cursor: pointer; color: rgb(68, 68, 68);">Điều khoản sử dụng</a></div></div><button draggable="false" title="Chuyển đổi chế độ xem toàn màn hình" aria-label="Chuyển đổi chế độ xem toàn màn hình" type="button" class="gm-control-active gm-fullscreen-control" style="background: none rgb(255, 255, 255); border: 0px; margin: 10px; padding: 0px; position: absolute; cursor: pointer; user-select: none; border-radius: 2px; height: 40px; width: 40px; box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; overflow: hidden; top: 0px; right: 0px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%20018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23666%22%20d%3D%22M0%2C0v2v4h2V2h4V0H2H0z%20M16%2C0h-4v2h4v4h2V2V0H16z%20M16%2C16h-4v2h4h2v-2v-4h-2V16z%20M2%2C12H0v4v2h2h4v-2H2V12z%22%2F%3E%0A%3C%2Fsvg%3E%0A" style="height: 18px; width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23333%22%20d%3D%22M0%2C0v2v4h2V2h4V0H2H0z%20M16%2C0h-4v2h4v4h2V2V0H16z%20M16%2C16h-4v2h4h2v-2v-4h-2V16z%20M2%2C12H0v4v2h2h4v-2H2V12z%22%2F%3E%0A%3C%2Fsvg%3E%0A" style="height: 18px; width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23111%22%20d%3D%22M0%2C0v2v4h2V2h4V0H2H0z%20M16%2C0h-4v2h4v4h2V2V0H16z%20M16%2C16h-4v2h4h2v-2v-4h-2V16z%20M2%2C12H0v4v2h2h4v-2H2V12z%22%2F%3E%0A%3C%2Fsvg%3E%0A" style="height: 18px; width: 18px;"></button><div draggable="false" class="gm-style-cc" style="user-select: none; height: 14px; line-height: 14px; position: absolute; right: 0px; bottom: 0px;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><a target="_blank" rel="noopener" title="Báo cáo lỗi trong bản đồ đường hoặc hình ảnh đến Google" href="https://www.google.com/maps/@46.001413,8.949562,15z/data=!10m1!1e1!12b1?source=apiv3&amp;rapsrc=apiv3" style="font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); text-decoration: none; position: relative;">Báo cáo một lỗi bản đồ</a></div></div><div class="gmnoprint gm-bundled-control gm-bundled-control-on-bottom" draggable="false" controlwidth="40" controlheight="113" style="margin: 10px; user-select: none; position: absolute; bottom: 127px; right: 40px;"><div class="gmnoprint" controlwidth="40" controlheight="81" style="position: absolute; left: 0px; top: 32px;"><div draggable="false" style="user-select: none; box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; border-radius: 2px; cursor: pointer; background-color: rgb(255, 255, 255); width: 40px; height: 81px;"><button draggable="false" title="Phóng to" aria-label="Phóng to" type="button" class="gm-control-active" style="background: none; display: block; border: 0px; margin: 0px; padding: 0px; position: relative; cursor: pointer; user-select: none; overflow: hidden; width: 40px; height: 40px; top: 0px; left: 0px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpolygon%20fill%3D%22%23666%22%20points%3D%2218%2C7%2011%2C7%2011%2C0%207%2C0%207%2C7%200%2C7%200%2C11%207%2C11%207%2C18%2011%2C18%2011%2C11%2018%2C11%22%2F%3E%0A%3C%2Fsvg%3E%0A" style="height: 18px; width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpolygon%20fill%3D%22%23333%22%20points%3D%2218%2C7%2011%2C7%2011%2C0%207%2C0%207%2C7%200%2C7%200%2C11%207%2C11%207%2C18%2011%2C18%2011%2C11%2018%2C11%22%2F%3E%0A%3C%2Fsvg%3E%0A" style="height: 18px; width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpolygon%20fill%3D%22%23111%22%20points%3D%2218%2C7%2011%2C7%2011%2C0%207%2C0%207%2C7%200%2C7%200%2C11%207%2C11%207%2C18%2011%2C18%2011%2C11%2018%2C11%22%2F%3E%0A%3C%2Fsvg%3E%0A" style="height: 18px; width: 18px;"></button><div style="position: relative; overflow: hidden; width: 30px; height: 1px; margin: 0px 5px; background-color: rgb(230, 230, 230); top: 0px;"></div><button draggable="false" title="Thu nhỏ" aria-label="Thu nhỏ" type="button" class="gm-control-active" style="background: none; display: block; border: 0px; margin: 0px; padding: 0px; position: relative; cursor: pointer; user-select: none; overflow: hidden; width: 40px; height: 40px; top: 0px; left: 0px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23666%22%20d%3D%22M0%2C7h18v4H0V7z%22%2F%3E%0A%3C%2Fsvg%3E%0A" style="height: 18px; width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23333%22%20d%3D%22M0%2C7h18v4H0V7z%22%2F%3E%0A%3C%2Fsvg%3E%0A" style="height: 18px; width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23111%22%20d%3D%22M0%2C7h18v4H0V7z%22%2F%3E%0A%3C%2Fsvg%3E%0A" style="height: 18px; width: 18px;"></button></div></div><div style="position: absolute; left: 20px; top: 0px;"></div><div class="gmnoprint" controlwidth="40" controlheight="40" style="display: none; position: absolute;"><div style="width: 40px; height: 40px;"><button draggable="false" title="Xoay bản đồ 90 độ" aria-label="Xoay bản đồ 90 độ" type="button" class="gm-control-active" style="background: none rgb(255, 255, 255); display: none; border: 0px; margin: 0px 0px 32px; padding: 0px; position: relative; cursor: pointer; user-select: none; width: 40px; height: 40px; top: 0px; left: 0px; overflow: hidden; box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; border-radius: 2px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2222%22%20viewBox%3D%220%200%2024%2022%22%3E%0A%20%20%3Cpath%20fill%3D%22%23666%22%20fill-rule%3D%22evenodd%22%20d%3D%22M20%2010c0-5.52-4.48-10-10-10s-10%204.48-10%2010v5h5v-5c0-2.76%202.24-5%205-5s5%202.24%205%205v5h-4l6.5%207%206.5-7h-4v-5z%22%20clip-rule%3D%22evenodd%22%2F%3E%0A%3C%2Fsvg%3E%0A" style="height: 18px; width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2222%22%20viewBox%3D%220%200%2024%2022%22%3E%0A%20%20%3Cpath%20fill%3D%22%23333%22%20fill-rule%3D%22evenodd%22%20d%3D%22M20%2010c0-5.52-4.48-10-10-10s-10%204.48-10%2010v5h5v-5c0-2.76%202.24-5%205-5s5%202.24%205%205v5h-4l6.5%207%206.5-7h-4v-5z%22%20clip-rule%3D%22evenodd%22%2F%3E%0A%3C%2Fsvg%3E%0A" style="height: 18px; width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2222%22%20viewBox%3D%220%200%2024%2022%22%3E%0A%20%20%3Cpath%20fill%3D%22%23111%22%20fill-rule%3D%22evenodd%22%20d%3D%22M20%2010c0-5.52-4.48-10-10-10s-10%204.48-10%2010v5h5v-5c0-2.76%202.24-5%205-5s5%202.24%205%205v5h-4l6.5%207%206.5-7h-4v-5z%22%20clip-rule%3D%22evenodd%22%2F%3E%0A%3C%2Fsvg%3E%0A" style="height: 18px; width: 18px;"></button><button draggable="false" title="Nghiêng bản đồ" aria-label="Nghiêng bản đồ" type="button" class="gm-tilt gm-control-active" style="background: none rgb(255, 255, 255); display: block; border: 0px; margin: 0px; padding: 0px; position: relative; cursor: pointer; user-select: none; width: 40px; height: 40px; top: 0px; left: 0px; overflow: hidden; box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; border-radius: 2px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218px%22%20height%3D%2216px%22%20viewBox%3D%220%200%2018%2016%22%3E%0A%20%20%3Cpath%20fill%3D%22%23666%22%20d%3D%22M0%2C16h8V9H0V16z%20M10%2C16h8V9h-8V16z%20M0%2C7h8V0H0V7z%20M10%2C0v7h8V0H10z%22%2F%3E%0A%3C%2Fsvg%3E%0A" style="width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218px%22%20height%3D%2216px%22%20viewBox%3D%220%200%2018%2016%22%3E%0A%20%20%3Cpath%20fill%3D%22%23333%22%20d%3D%22M0%2C16h8V9H0V16z%20M10%2C16h8V9h-8V16z%20M0%2C7h8V0H0V7z%20M10%2C0v7h8V0H10z%22%2F%3E%0A%3C%2Fsvg%3E%0A" style="width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218px%22%20height%3D%2216px%22%20viewBox%3D%220%200%2018%2016%22%3E%0A%20%20%3Cpath%20fill%3D%22%23111%22%20d%3D%22M0%2C16h8V9H0V16z%20M10%2C16h8V9h-8V16z%20M0%2C7h8V0H0V7z%20M10%2C0v7h8V0H10z%22%2F%3E%0A%3C%2Fsvg%3E%0A" style="width: 18px;"></button></div></div></div><div draggable="false" class="gm-style-cc" style="position: absolute; user-select: none; height: 14px; line-height: 14px; right: 217px; bottom: 0px;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><span>200 m&nbsp;</span><div style="position: relative; display: inline-block; height: 8px; bottom: -1px; width: 64px;"><div style="width: 100%; height: 4px; position: absolute; left: 0px; top: 0px;"></div><div style="width: 4px; height: 8px; left: 0px; top: 0px; background-color: rgb(255, 255, 255);"></div><div style="width: 4px; height: 8px; position: absolute; background-color: rgb(255, 255, 255); right: 0px; bottom: 0px;"></div><div style="position: absolute; background-color: rgb(102, 102, 102); height: 2px; left: 1px; bottom: 1px; right: 1px;"></div><div style="position: absolute; width: 2px; height: 6px; left: 1px; top: 1px; background-color: rgb(102, 102, 102);"></div><div style="width: 2px; height: 6px; position: absolute; background-color: rgb(102, 102, 102); bottom: 1px; right: 1px;"></div></div></div></div></div></div><div style="background-color: white; font-weight: 500; font-family: Roboto, sans-serif; padding: 15px 25px; box-sizing: border-box; top: 5px; border: 1px solid rgba(0, 0, 0, 0.12); border-radius: 5px; left: 50%; max-width: 375px; position: absolute; transform: translateX(-50%); width: calc(100% - 10px); z-index: 1;"><div><img alt="" src="./logo_slide3_files/google_gray.svg" draggable="false" style="padding: 0px; margin: 0px; border: 0px; height: 17px; vertical-align: middle; width: 52px; user-select: none;"></div><div style="line-height: 20px; margin: 15px 0px;"><span style="color: rgba(0, 0, 0, 0.87); font-size: 14px;">Trang này không thể tải Google Maps đúng cách.</span></div><table style="width: 100%;"><tr><td style="line-height: 16px; vertical-align: middle;"><a href="https://developers.google.com/maps/documentation/javascript/error-messages?utm_source=maps_js&amp;utm_medium=degraded&amp;utm_campaign=keyless#api-key-and-billing-errors" target="_blank" rel="noopener" style="color: rgba(0, 0, 0, 0.54); font-size: 12px;">Bạn có sở hữu trang web này không?</a></td><td style="text-align: right;"><button class="dismissButton">OK</button></td></tr></table></div><div style="background-color: white; font-weight: 500; font-family: Roboto, sans-serif; padding: 15px 25px; box-sizing: border-box; top: 5px; border: 1px solid rgba(0, 0, 0, 0.12); border-radius: 5px; left: 50%; max-width: 375px; position: absolute; transform: translateX(-50%); width: calc(100% - 10px); z-index: 1;"><div><img alt="" src="./logo_slide3_files/google_gray.svg" draggable="false" style="padding: 0px; margin: 0px; border: 0px; height: 17px; vertical-align: middle; width: 52px; user-select: none;"></div><div style="line-height: 20px; margin: 15px 0px;"><span style="color: rgba(0, 0, 0, 0.87); font-size: 14px;">Trang này không thể tải Google Maps đúng cách.</span></div><table style="width: 100%;"><tr><td style="line-height: 16px; vertical-align: middle;"><a href="https://developers.google.com/maps/documentation/javascript/error-messages?utm_source=maps_js&amp;utm_medium=degraded&amp;utm_campaign=billing#api-key-and-billing-errors" target="_blank" rel="noopener" style="color: rgba(0, 0, 0, 0.54); font-size: 12px;">Bạn có sở hữu trang web này không?</a></td><td style="text-align: right;"><button class="dismissButton">OK</button></td></tr></table></div></div>
+<script src="./logo_slide3_files/js"></script>
+<script type="text/javascript" src="./logo_slide3_files/maplabel.js.tải xuống"></script>
+<script>
+    /*---- Google map -----*/
+    (function () {
+        "use strict";
+        function initialize() {
+            jQuery.noConflict();
+            "use strict";
+            /* change your with your coordinates */
+            var myLatLng = new google.maps.LatLng(46.001413, 8.949562), // Your coordinates
+                mappy = {
+                    center: myLatLng,
+                    zoom: 15,
+                    zoomControl:true,
+                    mapTypeControl:true,
+                    scaleControl:true,
+                    scrollwheel: false,
+                    mapTypeId: google.maps.MapTypeId.ROADMAP,
+                    styles: [//Style for map
+                        {
+                            "featureType": "landscape",
+                            "stylers": [
+                                {
+                                    "saturation": -100
+                                },
+                                {
+                                    "lightness": 25
+                                },
+                                {
+                                    "visibility": "on"
+                                }
+                            ]
+                        },
+                        {
+                            "featureType": "poi",
+                            "stylers": [
+                                {
+                                    "saturation": -100
+                                },
+                                {
+                                    "lightness": 51
+                                }
+                            ]
+                        },
+                        {
+                            "featureType": "road.highway",
+                            "stylers": [
+                                {
+                                    "saturation": -50
+                                }
+                            ]
+                        },
+                        {
+                            "featureType": "road.arterial",
+                            "stylers": [
+                                {
+                                    "saturation": -20
+                                },
+                                {
+                                    "lightness": 30
+                                }
+                            ]
+                        },
+                        {
+                            "featureType": "road.local",
+                            "stylers": [
+                                {
+                                    "saturation": -100
+                                },
+                                {
+                                    "lightness": 40
+                                },
+                                {
+                                    "visibility": "on"
+                                }
+                            ]
+                        },
+                        {
+                            "featureType": "transit",
+                            "stylers": [
+                                {
+                                    "saturation": -100
+                                },
+                                {
+                                    "visibility": "simplified"
+                                }
+                            ]
+                        },
+                        {
+                            "featureType": "water",
+                            "elementType": "labels",
+                            "stylers": [
+                                {
+                                    "visibility": "on"
+                                },
+                                {
+                                    "lightness": -25
+                                },
+                                {
+                                    "saturation": -100
+                                }
+                            ]
+                        },
+                        {
+                            "featureType": "water",
+                            "elementType": "geometry",
+                            "stylers": [
+                                {
+                                    "hue": "#ffff00"
+                                },
+                                {
+                                    "lightness": -25
+                                },
+                                {
+                                    "saturation": -97
+                                }
+                            ]
+                        }
+                    ]
+                };
+
+            var map = new google.maps.Map(jQuery("#google_map")[0], mappy),
+                newpin = 'http://watchcenter.ch/media/smartwave/granada/googlemap/default/pin_2.png';
+
+            new google.maps.Marker({
+                position: myLatLng,
+                map: map,
+                icon: newpin,
+                animation: google.maps.Animation.DROP,
+                title: '' // Title for marker
+            });
+
+            /* Create new lat and long for label placed little bit down from marker*/
+            var labelLatLng = new google.maps.LatLng(46.001413, 8.949562),
+                mapLabel = new MapLabel({
+                    text: '',
+                    position: labelLatLng,
+                    map: map,
+                    fontSize: 18,
+                    align: 'center'
+                });
+
+            mapLabel.set('position', labelLatLng);
+            mapLabel.set('fontColor', '#57add8');
+            mapLabel.set('fontSize', 18);
+            mapLabel.set('strokeWeight', 0);
+        }
+
+        if (jQuery("#google_map")) {
+            google.maps.event.addDomListener(window, 'load', initialize);
+        }
+    }());
+
+</script></div>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+		jQuery('#home_demo_1').fullWindow();
+		});
+</script></div>                </div>
+            </div>
+        </div>
+        <div class="footer-container">
+    <div class="footer">
+                        <div class="footer-top">
+            <div class="container">
+                                <div class="row">
+                                            <div class="col-sm-4">
+                            <div class="content-element">
+                                Watch Center<br>
+Via Nassa 25<br>
+6900 Lugano<br>
+ Switzerland
+<br><br>
+Phone: +41919226483<br>
+E-Mail: <a href="mailto:info@watchcenter.ch">info@watchcenter.ch</a>                             </div>
+                        </div>
+                                                                <div class="col-sm-4">
+                            <div class="content-element">
+                                <img style="margin: 0 auto;" src="./logo_slide3_files/logo_footer.png" alt="">                             </div>
+                        </div>
+                                                                <div class="col-sm-4">
+                            <div class="content-element">
+                                <p style="text-align:right;"><span class="widget widget-cms-link"><a href="http://watchcenter.ch/index.php/terms-and-condition" title="General terms and conditions"><span>General terms and conditions</span></a></span>
+</p>
+<p style="text-align:right;">© 2016 | Powered by</p>                             </div>
+                        </div>
+                                                                            </div>
+                            </div>
+        </div>
+                <div class="footer-bottom">
+                                </div>
+    </div>
+</div>
+                
+
+<script type="text/javascript">
+	document.observe('dom:loaded', function() { 
+		if ($$('.category-products button')[0]!=undefined){
+				$$('.category-products button').each(function(add_button){
+					if ($(add_button).readAttribute('onclick')=="setLocation('callforprice_remove_button')")
+						$(add_button).remove();
+				});
+		}		
+		if ($$('.category-products a')[0]!=undefined){
+			$$('.category-products a').each(function(add_button){
+				if ($(add_button).readAttribute('href')=="callforprice_remove_button")
+					$(add_button).remove();
+			});
+	}				
+	}); 
+</script>    </div>
+</div>
+<div class="gray-button-container">
+    <button class="back-to-top button button-custom button-custom-active button-up hidden-xs btt-shown"><span>back to top</span></button>
+</div>
+
+</body></html>

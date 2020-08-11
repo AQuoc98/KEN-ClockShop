@@ -1,0 +1,136 @@
+﻿@model ClockUniverse.Contact
+@{
+   
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!doctype html>
+
+     <!-- #header -->
+    
+    <div class="beta-map">
+
+        <div class="abs-fullwidth beta-map wow flipInX"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4660.262922087948!2d106.69632103425413!3d10.826735630912056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317528f4a62fce9b%3A0xc99902aa1e26ef02!2zxJDhuqFpIEjhu41jIFbEg24gTGFuZw!5e0!3m2!1svi!2sus!4v1557396761004!5m2!1svi!2sus" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></div>
+    </div>
+    <div class="container">
+        <div id="content" class="space-top-none">
+
+            <div class="space50">&nbsp;</div>
+            <div class="row">
+                <div class="col-sm-8">
+                    <h2>Gửi Yêu Cầu</h2>
+                    <div class="space20">&nbsp;</div>
+                    <div class="space20">&nbsp;</div>
+                    @*<form action="@Url.Action("Create", "InformationManager")" method="post" class="contact-form">
+                        @Html.AntiForgeryToken()
+                        <div class="form-block">
+                            <input name="your-name" type="text" placeholder="Họ Tên *">
+                        </div>
+                        <div class="form-block">
+                            <input name="your-email" type="email" placeholder="Email *">
+                        </div>
+                        <div class="form-block">
+                            <input name="your-phone" type="text" placeholder="Số điện thoại *">
+                        </div>
+                        <div class="form-block">
+                            <input name="your-add" type="text" placeholder="Địa chỉ *">
+                        </div>
+                        <div class="form-block">
+                            <input name="your-subject" type="text" placeholder="Tiêu đề *">
+                        </div>
+                        <div class="form-block">
+                            <textarea name="your-message" placeholder="Nội dung *"></textarea>
+                        </div>
+                        <div class="form-block">
+                            <button type="submit" class="beta-btn primary">Gửi yêu cầu <i class="fa fa-chevron-right"></i></button>
+                        </div>
+                    </form>*@
+
+
+                    @using (Html.BeginForm("Create", "InformationManager"))
+                    {
+                        @Html.AntiForgeryToken()
+
+                        <div class="form-horizontal">
+                          
+                            <hr />
+                            @Html.ValidationSummary(true)                       
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.Customer_Name,"Tên Khách Hàng", new { @class = "control-label col-md-2" })
+                                <div class="col-md-10">
+                                    @Html.EditorFor(model => model.Customer_Name)
+                                    <span style="color:red"><em> @Html.ValidationMessageFor(model => model.Customer_Name)</em></span>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.Phone,"Số Điện Thoại", new { @class = "control-label col-md-2" })
+                                <div class="col-md-10">
+                                    @Html.EditorFor(model => model.Phone)
+                                    <span style="color:red"><em>@Html.ValidationMessageFor(model => model.Phone)</em></span>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.Email,"Email", new { @class = "control-label col-md-2" })
+                                <div class="col-md-10">
+                                    @Html.EditorFor(model => model.Email)
+                                    <span style="color:red"><em>@Html.ValidationMessageFor(model => model.Email)</em></span>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.Address,"Địa Chỉ", new { @class = "control-label col-md-2" })
+                                <div class="col-md-10">
+                                    @Html.EditorFor(model => model.Address)
+                                    <span style="color:red"><em> @Html.ValidationMessageFor(model => model.Address)</em></span>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                @Html.Label("Title", "Tiêu Đề", new { @class = "control-label col-md-2" })
+                                <div class="col-md-10">
+                                    @Html.TextBox("Title")
+                                        <span style="color:red"><em> @Html.ValidationMessage("Title")</em></span>
+                                </div>
+                            </div>
+                            
+                            <div class="form-group">
+                                @Html.Label("Feedback_Detail", "Nội Dung", new { @class = "control-label col-md-2" })
+                                <div class="col-md-10">
+                                    @Html.TextArea("Feedback_Detail")
+                                    <span style="color:red"><em> @Html.ValidationMessage("Feedback_Detail")</em></span>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <div class="col-md-offset-2 col-md-10">
+                                    <input type="submit" value="Gửi yêu cầu" class="btn btn-primary"  onclick="return alert('Bạn đã gửi yêu cầu thành công.');" />
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+                <div class="col-sm-4">
+                    <h2>Thông tin liên hệ</h2>
+                    <div class="space20">&nbsp;</div>
+                    <h6 class="contact-title">Địa chỉ</h6>
+                    <p>
+                        177/25 1 Đường số 6<br>
+                        Phường 5, Gò Vấp <br>
+                        Hồ Chí Minh
+                    </p>
+                    <div class="space20">&nbsp;</div>
+                    <h6 class="contact-title">Việc làm</h6>
+                    <p>
+                        Chúng tôi luôn tìm kiếm những người tài năng để <br>
+                        gia nhập đội ngũ của chúng tôi. <br>
+                        <a href="mailto:biz@betadesign.com">biz@betadesign.com</a>
+                    </p>
+                </div>
+            </div>
+        </div> <!-- #content -->
+    </div> <!-- .container -->
+     <!-- #footer -->
+     <!-- .copyright -->
+    <!-- include js files -->
+   
